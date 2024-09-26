@@ -14,12 +14,6 @@ const projects = [
     link: "https://github.com/Edward1217/Web_Development_Comp227",
   },
   {
-    title: "Portfolio Website",
-    description:
-      "A personal portfolio website showcasing my projects and skills, built using React and Tailwind CSS.",
-    link: "https://github.com/YourGitHub/portfolio-website",
-  },
-  {
     title: "AI Dermatologist: Skin Scanner",
     description:
       "AI Dermatologist: Skin Scanner Skill: Uses computer vision and machine learning to analyze skin conditions from images.Function: Scans and detects skin abnormalities, offering insights and recommendations.",
